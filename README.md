@@ -1,13 +1,13 @@
-# 🔫 PUBG Match Outcome Predictor: The Secret to Your Chicken Dinner 🐔
+#  PUBG Match Outcome Predictor: The Secret to Your Chicken Dinner 🐔
 
-## 🏆 What’s This All About?
+##  What’s This All About?
 Imagine having a crystal ball that could predict whether you’d clutch a *Winner Winner Chicken Dinner* in PUBG or end up spectating from the lobby. Well, guess what? This project does just that—minus the mysticism and with a lot more data science!
 
 Using advanced machine learning techniques, we analyze your in-game stats to predict match outcomes. Are you a strategic genius, or just someone who collects boosts for fun? Whether you’re a pro or a potato, this project turns your stats into actionable insights (and maybe a bit of roast).
 
 ---
 
-## 📦 What’s in the Loot Crate?
+##  What’s in the Loot Crate?
 This isn’t just data; it’s your digital battle history. Here are the features we examine to decode your gameplay:
 
 - **🛤 walkDistance**: Distance traveled on foot. Are you a marathoner or someone who gets sniped while AFK?
@@ -23,7 +23,7 @@ This isn’t just data; it’s your digital battle history. Here are the feature
 
 ---
 
-## 🛠️ Build Your Battle Station
+## 🛠 Build Your Battle Station
 Before you dive into the data-driven battleground, here’s the gear you need:
 
 ### Libraries You’ll Need:
@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn lightgbm statsmodels ba
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 Here’s the plan to turn your stats into a roadmap for victory:
 
 1. **Gear Up (EDA)**:
@@ -63,7 +63,7 @@ We evaluate models with the same intensity as the final circle. Metrics include:
 
 ---
 
-## 💡 Why This Matters
+##  Why This Matters
 1. **For Gamers**:
    - Get a data-backed perspective on your gameplay. No hacks, just stats.
    - Learn what it takes to consistently rank high and avoid rookie mistakes.
@@ -76,7 +76,7 @@ We evaluate models with the same intensity as the final circle. Metrics include:
 
 ---
 
-## 🐔 Road to Chicken Dinner
+##  Road to Chicken Dinner
 So, what are you waiting for? Equip your Python environment, load the data, and start training models that predict if you’re a survivalist or just someone who panics in the Red Zone. Either way, there’s plenty to learn—and maybe a few laughs along the way.
 
 Ready to get started? Let’s predict some winners and maybe, just maybe, help you secure your next Chicken Dinner. 🐔
